@@ -1,0 +1,18 @@
+{
+  "name": "exemplo-para-iniciante",
+  "version": "0.0.1",
+  "description": "exemplo-para-iniciante",
+  "main": "index.js",
+  "scripts": {
+  "start": "index.js"
+  },
+  "dependencies":
+  {
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.29.3",
+    "jimp": "^0.16.1",
+    "node-fetch": "^2.6.4"
+  }
+}
